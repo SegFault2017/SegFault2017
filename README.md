@@ -18,6 +18,7 @@
     - 🎮 Games
         - GTA 5
         - Sea of Theieves
+        - Monster Hunter
         - Any Survival games
 
 
