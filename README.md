@@ -5,7 +5,7 @@
 
 - 👨🏻‍🏫👨🏻‍💻 I am a developer and a lecturer.
 - 👨🏻‍💻 I’m currently working on How 2 find a full-time job? Any ideas?
-- 🌱 I’m currently preparing for GRE.
+- 🌱 I’m currently preparing for GRE and Terminal C1 competition.
 - 🤔 I’m looking for help with GRE and resume critique.
 - 💬 Ask me about badminton and Leetcode.
 - 📫 How to reach me: rayt.work2020@gmail.com
