@@ -3,12 +3,12 @@
 
 
 
-- 👨🏻‍🏫👨🏻‍💻 I am a developer and a lecturer
+- 👨🏻‍🏫👨🏻‍💻 I am a developer and a lecturer.
 - 🔭 I’m currently working on How 2 find a full-time job? Any ideas?
-- 👨🏻‍💻 I’m currently Seeking for a full-time job
-- 🌱 I’m currently preparing for GRE
-- 🤔 I’m looking for help with GRE, resume critique
-- 💬 Ask me about badminton and leetcode
+- 👨🏻‍💻 I’m currently Seeking for a full-time job.
+- 🌱 I’m currently preparing for GRE.
+- 🤔 I’m looking for help with GRE, resume critique.
+- 💬 Ask me about badminton and Leetcode.
 - 📫 How to reach me: rayt.work2020@gmail.com
 - 😄: Ray, Raymond, TheAlgoDude
 - ⚡ Fun fact: 
