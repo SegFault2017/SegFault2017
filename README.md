@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on How 2 find a full-time job? Any ideas?
 - 👨🏻‍💻 I’m currently Seeking for a full-time job.
 - 🌱 I’m currently preparing for GRE.
-- 🤔 I’m looking for help with GRE, resume critique.
+- 🤔 I’m looking for help with GRE and resume critique.
 - 💬 Ask me about badminton and Leetcode.
 - 📫 How to reach me: rayt.work2020@gmail.com
 - 😄: Ray, Raymond, TheAlgoDude
@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-
+<br> 
 
 ## 🗂️ Highlight Projects
 
@@ -52,14 +52,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SegFault2017&repo=MazeGen&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MazeGen" />
 </a>
 
-
-
-
+<br> 
 
 ### 👨🏻‍💻  This week, I spent my time on:
 
-[![Raymond's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SegFault2017&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/SegFault2017/github-readme-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
