@@ -14,6 +14,7 @@
     - 🏸 I love playing badminton
     - 🏀 I love watching NBA
     - 👹 Attack on Titan is my fav anime
+    - 👨🏼‍🔬 Breaking Bad is my fav show
     - 🎮 Games
         - GTA 5
         - Sea of Theieves
