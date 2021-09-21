@@ -4,7 +4,6 @@
 
 
 - 👨🏻‍🏫👨🏻‍💻 I am a developer and a lecturer.
-- 👨🏻‍💻 I’m currently,**desperately**, working on How 2 find a full-time job? Any ideas?
 - 🌱 I’m currently preparing for GRE and Terminal C1 competition.
 - 🤔 I’m looking for help with GRE and resume critique.
 - 💬 Ask me about badminton and Leetcode.
