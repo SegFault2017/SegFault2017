@@ -61,7 +61,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Properties   14 mins         █████████████░░░░░░░░░░░░   52.34 % 
-JSON         12 mins         ███████████▓░░░░░░░░░░░░░   47.20 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
