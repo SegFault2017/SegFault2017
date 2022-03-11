@@ -1,11 +1,8 @@
 ### Hi there, I am Raymond Tan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-
-
 - 👨🏻‍🏫👨🏻‍💻 I am a developer and a lecturer.
-- 🌱 I’m currently preparing for GRE and Terminal C1 competition.
-- 🤔 I’m looking for help with GRE and resume critique.
+- 🤔 I’m looking help for resume critique.
 - 💬 Ask me about badminton and Leetcode.
 - 📫 How to reach me: rayt.work2020@gmail.com
 - 😄: Ray, Raymond, TheAlgoDude
