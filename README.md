@@ -5,7 +5,7 @@
 - 🤔 I’m looking help for resume critique.
 - 💬 Ask me about badminton and Leetcode.
 - 📫 How to reach me: rayt.work2020@gmail.com
-- 😄: Ray, Raymond, TheAlgoDude
+- 😄: Ray, Raymond
 - ⚡ Fun facts: 
     - 🏸 I love playing badminton
     - 🏀 I love watching NBA
@@ -19,7 +19,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@Raymond-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Raymond67340430)](https://twitter.com/Raymond67340430) [![Mail Badge](https://img.shields.io/badge/-TheAlgoDude-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCiBZOR86tqobAmM5PJlHYrQ) [![Linkedin Badge](https://img.shields.io/badge/-RayTan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-tan-6ba998119/)
+[![Twitter Badge](https://img.shields.io/badge/-@Raymond-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Raymond67340430)](https://twitter.com/Raymond67340430)  [![Linkedin Badge](https://img.shields.io/badge/-RayTan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-tan-6ba998119/)
 [![Mail Badge](https://img.shields.io/badge/-RayTan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ray.work2020@gmail.com)
 
 
